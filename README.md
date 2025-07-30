@@ -1,7 +1,21 @@
-# Forbes-Analysis-2024-2025-
+# Forbes Analysis (2024-2025)
 This Analysis gives insights on the Forbes rating list on top billioniares
 
-## Top Billionaires (2024-2025)
+## Forbes Top Billionaires (2024-2025)
+
+## 📘 Introduction
+
+This repository presents a comprehensive data-driven exploration of the Forbes Billionaires Lists for 2024 and 2025. Using Python and pandas, the project analyzes wealth distribution, industry dynamics, country representation, and individual net worth changes among the world’s most financially influential figures.
+
+## Key objectives include:
+
+- 🧮 Comparing net worth growth between 2024 and 2025
+
+- 🌍 Identifying top countries and industries with the highest billionaire concentration
+
+- 📉 Spotting individuals with significant gains or losses in wealth
+
+- 🎭 Evaluating trends in age, gender, and self-made status
 
 ## Data Analysis
 
